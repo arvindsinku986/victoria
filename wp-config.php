@@ -70,7 +70,7 @@ define('NONCE_SALT',       'put your unique phrase here');
  * a unique prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix  = 'wp_';
-
+echo"hello world user";
 /**
  * For developers: WordPress debugging mode.
  *
