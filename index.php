@@ -12,6 +12,7 @@
  * @var bool
  */
 define('WP_USE_THEMES', true);
+define('WP_USE_THEMES', true);
 echo"sdfssd";
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
